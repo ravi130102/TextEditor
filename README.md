@@ -18,7 +18,7 @@
 
     <h2>Screenshots</h2>
     <div>
-      <img src="screenshot1.png" alt="Screenshot of Texteditor Java Project">
+      <img src="TextEditor/Image/Screenshot 2023-04-27 163926.png" alt="Screenshot of Texteditor Java Project">
       <img src="screenshot2.png" alt="Screenshot of Texteditor Java Project in Dark Mode">
     </div>
 
