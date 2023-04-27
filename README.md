@@ -17,9 +17,9 @@
       <li>Toggle between dark and light modes</li>
     </ul>
     <h2>Screenshots</h2>
-    <img src="[Images/Screenshot 2023-04-27 163926.png](https://github.com/ravi130102/TextEditor/blob/main/Image/Screenshot%202023-04-27%20164020.png)" alt="TextEditor in light mode">
+    <img src="(https://github.com/ravi130102/TextEditor/blob/main/Image/Screenshot%202023-04-27%20164020.png)" alt="TextEditor in light mode">
     <p>TextEditor in light mode</p>
-    <img src="[Images/Screenshot 2023-04-27 164020.png](https://github.com/ravi130102/TextEditor/blob/main/Image/Screenshot%202023-04-27%20163926.png)" alt="TextEditor in dark mode">
+    <img src="(https://github.com/ravi130102/TextEditor/blob/main/Image/Screenshot%202023-04-27%20163926.png)" alt="TextEditor in dark mode">
     <p>TextEditor in dark mode</p>
     <h2>Usage</h2>
     <p>
