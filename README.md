@@ -2,28 +2,35 @@
 <html>
   <head>
     <meta charset="UTF-8">
-<!--     <title>TextEditor Java Project</title> -->
+    <title>TextEditor Java Project</title>
   </head>
   <body>
     <h1>TextEditor Java Project</h1>
-    <p>
-      This is a TextEditor Java project that allows users to edit and save text files. The TextEditor has a user-friendly interface with options for copying, pasting, erasing all, and toggling between dark and light modes.
-    </p>
-    <h2>Features</h2>
+    <p>This is a simple text editor application developed in Java.</p>
+    <p>It includes the following features:</p>
     <ul>
-      <li>Copy text</li>
-      <li>Paste text</li>
-      <li>Erase all text</li>
-      <li>Toggle between dark and light modes</li>
+      <li>Copy</li>
+      <li>Paste</li>
+      <li>Eraser All</li>
+      <li>Dark/Light Mode</li>
     </ul>
     <h2>Screenshots</h2>
-    <img src="(/Image/Screenshot 2023-04-27 164020.png)" alt="TextEditor in light mode">
-    <p>TextEditor in light mode</p>
-    <img src="(/Image/Screenshot 2023-04-27 163926.png)" alt="TextEditor in dark mode">
-    <p>TextEditor in dark mode</p>
+    <p>Dark Mode</p>
+    <img src="darkmode.png" alt="Dark Mode Screenshot">
+    <p>Light Mode</p>
+    <img src="lightmode.png" alt="Light Mode Screenshot">
+    <h2>Download and Installation</h2>
+    <p>You can download the latest version of the TextEditor Java Project from the <a href="https://github.com/yourusername/TextEditorJavaProject/releases">releases page</a>.</p>
     <h2>Usage</h2>
-    <p>
-      To use the TextEditor, simply download and run the Java project on your local machine. Once the TextEditor is open, you can create a new file, open an existing file, or save the current file. You can also copy, paste, or erase all text, and toggle between dark and light modes by clicking on the respective buttons in the toolbar.
-    </p>
+    <p>After downloading the application, simply double-click the JAR file to launch the text editor.</p>
+    <h2>Contributing</h2>
+    <p>If you would like to contribute to the project, feel free to submit a pull request or open an issue.</p>
+    <h2>Contact</h2>
+    <p>For any questions or concerns, please contact me via GitHub or LinkedIn:</p>
+    <ul>
+      <li><a href="https://github.com/yourusername">GitHub</a></li>
+      <li><a href="https://www.linkedin.com/in/yourusername">LinkedIn</a></li>
+    </ul>
   </body>
 </html>
+
