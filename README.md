@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>TextEditor Java Project</title>
+<!--     <title>TextEditor Java Project</title> -->
   </head>
   <body>
     <h1>TextEditor Java Project</h1>
