@@ -28,8 +28,8 @@
     <h2>Contact</h2>
     <p>For any questions or concerns, please contact me via GitHub or LinkedIn:</p>
     <ul>
-      <li><a href="https://github.com/yourusername">GitHub</a></li>
-      <li><a href="https://www.linkedin.com/in/yourusername">LinkedIn</a></li>
+      <li><a href="https://github.com/ravi130102">GitHub</a></li>
+      <li><a href="https://github.com/ravi130102">LinkedIn</a></li>
     </ul>
   </body>
 </html>
