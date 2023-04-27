@@ -16,9 +16,9 @@
     </ul>
     <h2>Screenshots</h2>
     <p>Dark Mode</p>
-    <img src="darkmode.png" alt="Dark Mode Screenshot">
+    <img src="Image\darkmode.png" alt="Dark Mode Screenshot">
     <p>Light Mode</p>
-    <img src="lightmode.png" alt="Light Mode Screenshot">
+    <img src="Image\lightmode.png" alt="Light Mode Screenshot">
     <h2>Download and Installation</h2>
     <p>You can download the latest version of the TextEditor Java Project from the <a href="https://github.com/yourusername/TextEditorJavaProject/releases">releases page</a>.</p>
     <h2>Usage</h2>
